@@ -56,12 +56,6 @@ A **multi-phase quantitative trading system** designed for **S&P 500** and **Nas
 - **Tradovate API** for live data & execution.
 - **Benzinga API** for market-moving news sentiment.
 
-#### **Visual Architecture**
-![Trading System Architecture](https://via.placeholder.com/900x600.png?text=Quantitative+Trading+System+Architecture)
-
-*(Diagram shows data flow from market APIs to sentiment analysis, pattern detection, risk modeling, and final execution engine in Go.)*
-
----
 
 ## 📈 Current Learning
 - **Advanced quantitative finance** & **algorithmic trading models**
