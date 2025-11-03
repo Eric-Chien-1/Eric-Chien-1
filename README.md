@@ -47,16 +47,6 @@ I’m currently expanding into **quantitative finance**, building advanced futur
 
 ---
 
-## 📌 Pinned Project
-### **Futures Market Trading System — ES & NQ**
-A **multi-phase quantitative trading system** designed for **S&P 500** and **Nasdaq** futures, integrating:
-- **Real-time sentiment analysis** from financial news.
-- **Pattern & volume confirmation** for trade execution.
-- **Monte Carlo simulation** & **Expected Value analysis** for risk-adjusted decision-making.
-- **Tradovate API** for live data & execution.
-- **Benzinga API** for market-moving news sentiment.
-
-
 ## 📈 Current Learning
 - **Advanced quantitative finance** & **algorithmic trading models**
 - **Real-time pattern recognition** using statistical methods
