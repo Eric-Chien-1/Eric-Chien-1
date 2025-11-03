@@ -51,7 +51,8 @@ I’m currently expanding into **quantitative finance**, building advanced futur
 - **Advanced quantitative finance** & **algorithmic trading models**
 - **Real-time pattern recognition** using statistical methods
 - **Risk modeling** and **portfolio optimization**
-
+- **Creating AI models**
+- **Optimization Modeling** 
 ---
 
 ## 📫 Contact
