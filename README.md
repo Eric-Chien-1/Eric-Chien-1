@@ -48,7 +48,7 @@ I’m currently expanding into **quantitative finance**, building advanced futur
 ---
 
 ## 📌 Pinned Project
-### **Futures Market AI — ES & NQ**
+### **Futures Market Trading System — ES & NQ**
 A **multi-phase quantitative trading system** designed for **S&P 500** and **Nasdaq** futures, integrating:
 - **Real-time sentiment analysis** from financial news.
 - **Pattern & volume confirmation** for trade execution.
