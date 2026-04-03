@@ -21,32 +21,6 @@ I’m currently expanding into **quantitative finance**, building advanced futur
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
----
-
-## 💼 Professional Experience
-### **American Airlines** — Software Engineer *(Jun 2024 – Present)*
-- Designed a daily operations optimizer saving **$350K/day** in pilot scheduling costs.
-- Built a Non-Linear programming-based training scheduler saving **$3.2M/quarter**.
-- Led “Optimization as a Service” with **Kubernetes**, **Docker**, and **ArgoCD**, improving runtime & uptime by 110%.
-- Automated Azure onboarding with **Terraform** and CI/CD pipelines.
-- Strengthened security with **Apigee** and **Akamai** integrations.
-
-### **Verizon** — Java Developer *(Jun 2023 – Jun 2024)*
-- Developed new enterprise features in **Spring Boot** & **AngularJS**.
-- Migrated workloads to **Amazon EKS**, cutting deployment time by 30%.
-- Reduced API failures by 25% with robust Postman & SoapUI test suites.
-
-### **AT&T** — Software Developer *(Oct 2022 – May 2023)*
-- Built microservices in **Spring Boot** for ticketing systems.
-- Optimized SQL queries for 35% faster performance.
-- Created engaging UI features in **ReactJS** & **Angular**.
-
-### **Stephen F. Austin State University** — Undergraduate Research Assistant *(Aug 2020 – Aug 2021)*
-- Built computer vision models with **TensorFlow**, **OpenCV**, and **YOLOv4**.
-- Automated data pipelines for image preprocessing & detection.
-
----
-
 ## 📈 Current Learning
 - **Advanced quantitative finance** & **algorithmic trading models**
 - **Real-time pattern recognition** using statistical methods
